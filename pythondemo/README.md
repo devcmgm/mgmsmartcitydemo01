@@ -1,15 +1,10 @@
-# mgmsmartcitydemo01
+# pythondemo
 
-<h1>Title: "Intro to Full Stack Development with Spring Boot and ReactJs”</h1>
+<h1>Title: "Overview of Python”</h1>
 <P>
-This workshop is an intro to Full Stack Development with React JS and Java Spring Boot.  Bring your laptops and learn what tools are needed and how to build a typical project.  We will also demonstrate how to build an iPhone/Android phone application using React Native.
+Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
+<BR>
+<BR>
+Wikipedia contributors. (2020, January 31). Python (programming language). In Wikipedia, The Free Encyclopedia. Retrieved 21:12, February 2, 2020, from https://en.wikipedia.org/w/index.php?title=Python_(programming_language)&oldid=938549071
 </p>
 
-<H2>Key Topics Covered</H2>
-<OL>
-<LI>JSON</LI>
-<LI>JAVASCRIPT</LI>
-<LI>JAVA and Spring.io</LI>
-<LI>ReactJs</LI>
-<LI>Python</LI>
-</OL>
